@@ -1,6 +1,6 @@
 <h1>Hola, Soy Gerard! 👋</h2>
 
-<p>🧑‍💻 Futuro -> Ser desarrollador web / móvil.</p>
+<p>🧑‍💻 Futuro -> Ser desarrollador web.</p>
 
 <p>🚀 Presente -> Estudiando Desarrollo de Aplicaciones Web en IOC + Autodidacta nato.</p>
 
