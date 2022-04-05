@@ -1,5 +1,10 @@
-<h1>Hi, I'm Gerard 👋👨‍💻</h2>
-<p>I'm a beginner in web development.</p>
-<p>I'm studying Web Application Development (DAW) at the Online Institute of Catalonia. https://ioc.xtec.cat/educacio/ </p>
-<p>In short i'm a developer developing myself. ☕😅</p>
+<h1>Hola, Soy Gerard! 👋</h2>
+
+<p>🧑‍💻 Futuro -> Ser desarrollador web / móvil.</p>
+
+<p>🚀 Presente -> Estudiando Desarrollo de Aplicaciones Web en IOC + Autodidacta nato.</p>
+
+<p> 🎯 Pasado -> Autónomo des de hace más de 10 años en el mundo de los espectáculos.</p>
+
+<p> ⏳︎ Aprendiendo... ⚡Java | ⚡HTML5 | ⚡CSS3 | ⚡Javascript | ⚡SQL </p>
 
