@@ -6,5 +6,5 @@
 
 <p> 🎯 Pasado -> Autónomo desde hace más de 10 años en el mundo del espectáculo.</p>
 
-<p> ⏳︎ Aprendiendo... ⚡Java | ⚡HTML5 | ⚡CSS3 | ⚡Javascript | ⚡SQL </p>
+<p> ⏳︎ Aprendiendo... ⚡Java | ⚡HTML5 | ⚡CSS3 | ⚡Javascript | ⚡Typescript | ⚡Angular | ⚡SQL </p>
 
